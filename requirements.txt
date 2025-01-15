@@ -1,0 +1,21 @@
+transformers #Huggin face tarafından geliştirilmiş bir NLP tensorflowdaki gibi eğitilmiş bir yapı
+transformers[sentencepiece] #tokenizasyon için arıcıdır dile model oluşturma sırasında kullanılır.
+dataset
+sacrebleu# skor hesaplamak için kullanılır
+rouge_score# (Recal) özellikle metin özetlemesi için kullanılır.
+py7zr # Ziplemek için
+pandas
+nltk#Doğal dil işleme kütüphanesi
+tqdm#uzun süreli işlemlerin fonksiyonlar barlar oluşturur ve işlem grafiğini takip edebiliriz.
+PyYAML# YAML kütüphanesinin verilerini işlemek için kullanılan bir kütüphanemizdir
+matplotlib
+torch #Pytorch kütüphanesine ait ve derin öğrenme makine öğrenmesi içinde tercih edilir
+notebook
+boto3 (Amazon Web servis) 
+mypy-boto3-s3 #statik tip destekleme olanağı sağlar
+python-box==6.0.2#Pythonda veri yapıları yönetmek için kullanılır
+ensure==1.0.2 #Pythondaki veri tiplerini denetlemek için kullanırız
+fastapi==0.78.0#Pythonda hızlı apileri geliştirmek için kullanılan bir kütüphane
+uvicorn==0.18.3#Web apilerini çalıştırmak için kullanılır.
+Jinja2==3.1.2#Python için Şablon motoru görevi görür.
+-e .
